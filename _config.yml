@@ -1,7 +1,7 @@
 # Site
-title:              Sehee's blog
-bio:                'Welcome this is my first GitHub blog.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Sehee's Blog
+bio:                'Welcome! this is my first GitHub blog.'
+description:        "전공생의 개발 블로그 입니다~!."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
