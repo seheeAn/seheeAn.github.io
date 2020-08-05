@@ -11,8 +11,8 @@ comments: false
 ## Features
 * Sehee An
 * Suwon, Korea
-* In kyungHee University
-* Magoring in Software Convergence.
+* In KyungHee University
+* Majoring in Software Convergence
 * Sophomore
 * Page for sharing my projects
 * or my daily life 
