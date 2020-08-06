@@ -196,7 +196,7 @@ header .entry-meta {
     @include transition(.5s);
     @media #{$small} {
         background-image: none !important;
-        padding-top: -2rem;
+        padding-top: 2rem;
     }
     @media #{$medium} {
         color: white;
